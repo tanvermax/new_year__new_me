@@ -1,0 +1,191 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-family: 'lato', sans-serif;
+
+}
+
+.header_part {
+    background-image: url('/image/banner3.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    padding: 100px;
+
+
+
+}
+.heaer_title{
+
+    margin-top: 100px;
+}
+
+.headline {
+
+    /* padding: 150px; */
+    margin-left: 850px;
+    width: 525px;
+    font-size: 65px;
+    text-align: right;
+  
+
+}
+/* .heaer_details{
+
+
+}
+.header_descripton{
+
+
+} */
+.decription {
+
+    color: rgba(255, 255, 255, 0.786);
+    padding: 30px;
+    margin-right: 150px;
+    width: 525px;
+    font-size: 16px;
+    font-family: "Work Sans", sans-serif;
+    margin-left: 820px;
+    text-align: right;
+
+}
+
+.contact_btn {
+    background-color: white;
+    border: solid 2px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 1200px;
+    color: #005FAC;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: "Work Sans", sans-serif;
+    height: 64px;
+    width: 160px;
+    font: bold;
+
+}
+.buttonn{
+    padding: 15px;
+    margin-right: 250px;
+}
+
+/* main part */
+
+.main_plan{
+    background-color: whitesmoke;
+    padding: 150px;
+    padding-top: 100px;
+    display: flex;
+    margin-left: 200px;
+    gap: 150px;
+
+}
+
+.content_description{
+    padding: 50px;
+    text-align: left;
+    gap: 50px;
+    margin-top: 100px;
+}
+
+.content-descrioton-header{
+
+    font-size: 40px;
+    height: 94px;
+    width: 288px;
+    font-family: "Work Sans", sans-serif;
+    font: bold;
+
+}
+.content_photo{
+    
+}
+li{
+    list-style-type: none;
+    font-size: 16px;
+    padding: 5px;
+}
+#li_check{
+   color: rgba(0, 255, 76, 0.528);
+
+
+}
+.content-description-details{
+    font-size: 16px;
+    font-family: "Work Sans", sans-serif;
+    height: 104px;
+    width: 416px;
+    line-height: 30px;
+    
+    
+}
+.content-description-table
+{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    margin-right: 20px;
+   
+
+}
+ul{
+    margin-top: 30px;
+    
+}
+
+/* planing item */
+.plan_title{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+    font-family: "Work Sans", sans-serif;
+
+}
+.plan_item{
+    display: flex;
+    text-align: center;
+    padding: 100px;
+    gap: 200px;
+    margin-left: 100px;
+    font-family: "Work Sans", sans-serif;
+
+}
+.item_descriptin{
+    color: #7d8891;
+}
+.item_font{
+    font-size: 30px;
+    font: bold;
+
+}
+.contact_info{
+    background-image: url('/image/gradient1.png') ,url('/image/watch.png') ;
+    background-position: right bottom, left ;
+    background-repeat: no-repeat,no-repeat;
+    background-position: center;
+    
+
+    
+}
+#contact_tile{
+margin-left: 400px;
+margin-top: 100px;
+font-family: "Work Sans", sans-serif;
+font-size: 40px;
+font: bold;
+padding: 20px;
+}
+#buttonn2{
+    background-color: white;
+    border: solid 2px;
+    text-align: center;
+    
+    margin-left: 400px;
+    color: #005FAC;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: "Work Sans", sans-serif;
+    height: 64px;
+    width: 160px;
+    font: bold;
+}
