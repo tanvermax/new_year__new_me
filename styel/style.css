@@ -5,7 +5,7 @@ body {
 }
 
 .header_part {
-    background-image: url('/image/banner3.png');
+    background-image: url('../image/banner3.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -169,7 +169,7 @@ ul {
 }
 
 .contact_info {
-    background-image: url('/image/gradient1.png'), url('/image/watch.png');
+    background-image: url('../image/gradient1.png'), url('../image/watch.png');
     background-position: right bottom, left;
     background-repeat: no-repeat, no-repeat;
     background-position: center;
